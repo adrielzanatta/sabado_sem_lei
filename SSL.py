@@ -29,9 +29,7 @@ jogadores_df["Presença%"] = ((jogadores_df["Presença"] / num_jogos) * 100).map
     "{:,.1f}%".format
 )
 
-jogadores_df["Gols/Jogo"] = (jogadores_df["Gols"] / jogadores_df["Presença"]).map(
-    "{:,.1f}".format
-)
+jogadores_df["Gols/Jogo"] = (jogadores_df["Gols"] / jogadores_df["Presença"]).astype(float)
 
 jogadores_df["Aproveitamento%"] = (
     jogadores_df["Pontos"] / (jogadores_df["Presença"] * 3) * 100
@@ -50,7 +48,6 @@ jogadores_df["Empates"] = (
     .size()
     .astype(int)
 )
-
 
 jogadores_df["Derrotas"] = (
     lista_jogos_df.loc[lista_jogos_df["Pontos"] == 0]
@@ -199,7 +196,6 @@ bar_gols.update_yaxes(ticklabelposition="inside")
 bar_gols.add_vline(x=0)
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
-
 
 app.layout = dbc.Container(
     [
