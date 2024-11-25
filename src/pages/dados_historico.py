@@ -84,7 +84,7 @@ tabela_historica = dag.AgGrid(
         },
         {
             "field": "PJ",
-            "width": 50,
+            "width": 75,
         },
         {
             "field": "FREQ",
@@ -93,19 +93,19 @@ tabela_historica = dag.AgGrid(
         },
         {
             "field": "S+",
-            "width": 50,
+            "width": 60,
         },
         {
             "field": "V",
-            "width": 50,
+            "width": 60,
         },
         {
             "field": "E",
-            "width": 50,
+            "width": 60,
         },
         {
             "field": "D",
-            "width": 50,
+            "width": 60,
         },
     ],
     dashGridOptions={"animateRows": True},

@@ -105,6 +105,7 @@ layout = dbc.Container(
                     "width": 400,
                     "rowDrag": True,
                 },
+                {"field": "2024"},
                 {"field": "2023"},
                 {"field": "2022"},
                 {"field": "2021"},

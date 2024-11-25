@@ -3500,3 +3500,590 @@
 2023;45;Rafael Klauck;2;Gustavo Boufleur;1;1;0
 2023;45;Rafael Klauck;2;Fernando Stacke;0;1;0
 2023;45;Rafael Klauck;2;Ieso;0;1;2
+2024;1;Adriel Zanatta;1;Adriel Zanatta;0;1;0
+2024;1;Adriel Zanatta;1;Alexandre Junges;4;1;5
+2024;1;Adriel Zanatta;1;Ieso;0;1;1
+2024;1;Adriel Zanatta;1;Rafael Muller;1;1;0
+2024;1;Adriel Zanatta;1;Rafael Klauck;0;1;0
+2024;1;Adriel Zanatta;1;Werner Hansen;1;1;2
+2024;1;Adriel Zanatta;1;Jarbas Kochhann;0;1;0
+2024;1;Adriel Zanatta;2;André Junges;1;1;0
+2024;1;Adriel Zanatta;2;Felipe Rambor;1;1;1
+2024;1;Adriel Zanatta;2;Fernando Stacke;1;1;1
+2024;1;Adriel Zanatta;2;Gustavo (Pequeno);1;1;1
+2024;1;Adriel Zanatta;2;Rafael Nunes;1;1;0
+2024;1;Adriel Zanatta;2;Pedrinho;0;1;0
+2024;1;Adriel Zanatta;2;Matheus Valle;0;1;1
+2024;1;Adriel Zanatta;2;Judeu;1;1;1
+2024;2;Alexandre Junges;1;Adriel Zanatta;0;0;0
+2024;2;Alexandre Junges;1;Alexandre Junges;1;0;1
+2024;2;Alexandre Junges;1;Felipe Rambor;1;0;1
+2024;2;Alexandre Junges;1;Gustavo (Pequeno);0;0;1
+2024;2;Alexandre Junges;1;Ieso;0;0;3
+2024;2;Alexandre Junges;1;Rafael Muller;0;0;1
+2024;2;Alexandre Junges;1;Samuel Weber;0;0;0
+2024;2;Alexandre Junges;2;André Junges;2;3;1
+2024;2;Alexandre Junges;2;Fernando Stacke;1;3;1
+2024;2;Alexandre Junges;2;Rafael Nunes;0;3;0
+2024;2;Alexandre Junges;2;Pedrinho;0;3;0
+2024;2;Alexandre Junges;2;Rafael Klauck;0;3;0
+2024;2;Alexandre Junges;2;Tiago Amoretti;2;3;2
+2024;2;Alexandre Junges;2;Vini Rodrigues;3;3;3
+2024;3;André Junges;1;Rafael Nunes;0;0;2
+2024;3;André Junges;1;Pedrinho;0;0;1
+2024;3;André Junges;1;Rafael Klauck;3;0;2
+2024;3;André Junges;1;Tiago Amoretti;1;0;0
+2024;3;André Junges;1;Vini Rodrigues;1;0;2
+2024;3;André Junges;1;Matheus Valle;0;0;0
+2024;3;André Junges;1;Gabito;0;0;0
+2024;3;André Junges;2;André Junges;0;3;0
+2024;3;André Junges;2;Felipe Rambor;0;3;0
+2024;3;André Junges;2;Gustavo (Pequeno);3;3;1
+2024;3;André Junges;2;Ieso;0;3;0
+2024;3;André Junges;2;Samuel Weber;0;3;0
+2024;3;André Junges;2;Gustavo Boufleur;1;3;0
+2024;3;André Junges;2;Judeu;5;3;6
+2024;4;Felipe Rambor;1;Adriel Zanatta;2;3;2
+2024;4;Felipe Rambor;1;Alexandre Junges;1;3;0
+2024;4;Felipe Rambor;1;Felipe Rambor;2;3;0
+2024;4;Felipe Rambor;1;Rafael Nunes;1;3;0
+2024;4;Felipe Rambor;1;Ieso;0;3;5
+2024;4;Felipe Rambor;1;Samuel Weber;2;3;0
+2024;4;Felipe Rambor;2;Almir;0;0;0
+2024;4;Felipe Rambor;2;André Junges;1;0;3
+2024;4;Felipe Rambor;2;Pedrinho;0;0;0
+2024;4;Felipe Rambor;2;Rafael Klauck;1;0;3
+2024;4;Felipe Rambor;2;Gustavo Boufleur;0;0;0
+2024;4;Felipe Rambor;2;Jarbas Kochhann;0;0;0
+2024;4;Felipe Rambor;2;Norman;0;0;0
+2024;5;Fernando Stacke;1;Adriel Zanatta;0;0;0
+2024;5;Fernando Stacke;1;Alexandre Junges;2;0;4
+2024;5;Fernando Stacke;1;Pedrinho;0;0;3
+2024;5;Fernando Stacke;1;Samuel Weber;1;0;0
+2024;5;Fernando Stacke;1;Vini Rodrigues;0;0;0
+2024;5;Fernando Stacke;1;Jarbas Kochhann;0;0;0
+2024;5;Fernando Stacke;1;Norman;1;0;0
+2024;5;Fernando Stacke;2;Almir;0;3;0
+2024;5;Fernando Stacke;2;André Junges;1;3;0
+2024;5;Fernando Stacke;2;Felipe Rambor;2;3;0
+2024;5;Fernando Stacke;2;Gustavo (Pequeno);2;3;4
+2024;5;Fernando Stacke;2;Ieso;0;3;3
+2024;5;Fernando Stacke;2;Rafael Muller;1;3;0
+2024;5;Fernando Stacke;2;Felipe Punhobol;0;3;0
+2024;6;Gustavo (Pequeno);1;Adriel Zanatta;2;0;3
+2024;6;Gustavo (Pequeno);1;Alexandre Junges;0;0;0
+2024;6;Gustavo (Pequeno);1;Almir;1;0;1
+2024;6;Gustavo (Pequeno);1;Felipe Rambor;2;0;1
+2024;6;Gustavo (Pequeno);1;Pedrinho;0;0;0
+2024;6;Gustavo (Pequeno);1;Vini Rodrigues;1;0;2
+2024;6;Gustavo (Pequeno);1;Jarbas Kochhann;0;0;0
+2024;6;Gustavo (Pequeno);2;André Junges;2;3;0
+2024;6;Gustavo (Pequeno);2;Rafael Nunes;1;3;1
+2024;6;Gustavo (Pequeno);2;Ieso;0;3;4
+2024;6;Gustavo (Pequeno);2;Lucas Linden;0;3;0
+2024;6;Gustavo (Pequeno);2;Rafael Klauck;3;3;0
+2024;6;Gustavo (Pequeno);2;Samuel Weber;3;3;2
+2024;6;Gustavo (Pequeno);2;Tiago Amoretti;1;3;0
+2024;7;Gustavo Boufleur;1;Adriel Zanatta;2;3;0
+2024;7;Gustavo Boufleur;1;Alexandre Junges;0;3;0
+2024;7;Gustavo Boufleur;1;Almir;1;3;0
+2024;7;Gustavo Boufleur;1;Ieso;0;3;4
+2024;7;Gustavo Boufleur;1;Rafael Muller;1;3;0
+2024;7;Gustavo Boufleur;1;Rafael Klauck;4;3;3
+2024;7;Gustavo Boufleur;1;Vini Rodrigues;1;3;0
+2024;7;Gustavo Boufleur;2;André Junges;1;0;1
+2024;7;Gustavo Boufleur;2;Rafael Nunes;0;0;0
+2024;7;Gustavo Boufleur;2;Lucas Linden;0;0;0
+2024;7;Gustavo Boufleur;2;Pedrinho;1;0;1
+2024;7;Gustavo Boufleur;2;Samuel Weber;0;0;0
+2024;7;Gustavo Boufleur;2;Gustavo Boufleur;1;0;2
+2024;7;Gustavo Boufleur;2;Tiago Amoretti;1;0;3
+2024;8;Ieso;1;Adriel Zanatta;1;0;0
+2024;8;Ieso;1;André Junges;1;0;0
+2024;8;Ieso;1;Ieso;0;0;1
+2024;8;Ieso;1;Rafael Klauck;1;0;0
+2024;8;Ieso;1;Vini Rodrigues;4;0;5
+2024;8;Ieso;1;Douglas Dias;1;0;0
+2024;8;Ieso;2;Alexandre Junges;3;3;5
+2024;8;Ieso;2;Felipe Rambor;2;3;0
+2024;8;Ieso;2;Fernando Stacke;1;3;0
+2024;8;Ieso;2;Rafael Muller;1;3;0
+2024;8;Ieso;2;Pedrinho;0;3;0
+2024;8;Ieso;2;Tiago Amoretti;2;3;1
+2024;9;Jarbas Kochhann;1;Adriel Zanatta;1;0;0
+2024;9;Jarbas Kochhann;1;Alexandre Junges;1;0;2
+2024;9;Jarbas Kochhann;1;Felipe Rambor;1;0;1
+2024;9;Jarbas Kochhann;1;Rafael Muller;1;0;3
+2024;9;Jarbas Kochhann;1;Pedrinho;1;0;0
+2024;9;Jarbas Kochhann;1;Rafael Klauck;0;0;0
+2024;9;Jarbas Kochhann;1;Jarbas Kochhann;0;0;0
+2024;9;Jarbas Kochhann;2;André Junges;4;3;2
+2024;9;Jarbas Kochhann;2;Fernando Stacke;1;3;2
+2024;9;Jarbas Kochhann;2;Gustavo (Pequeno);0;3;0
+2024;9;Jarbas Kochhann;2;Ieso;1;3;1
+2024;9;Jarbas Kochhann;2;Gustavo Boufleur;1;3;1
+2024;9;Jarbas Kochhann;2;Vini Rodrigues;2;3;1
+2024;9;Jarbas Kochhann;2;Vitor Bittencourt;0;3;0
+2024;10;André Junges;1;Alexandre Junges;0;3;0
+2024;10;André Junges;1;Felipe Rambor;2;3;3
+2024;10;André Junges;1;Gustavo (Pequeno);3;3;3
+2024;10;André Junges;1;Ieso;0;3;0
+2024;10;André Junges;1;Samuel Weber;2;3;0
+2024;10;André Junges;1;Vini Rodrigues;3;3;0
+2024;10;André Junges;1;Jarbas Kochhann;0;3;0
+2024;10;André Junges;2;André Junges;1;0;1
+2024;10;André Junges;2;Fernando Stacke;0;0;0
+2024;10;André Junges;2;Rafael Muller;2;0;2
+2024;10;André Junges;2;Gustavo Boufleur;2;0;3
+2024;10;André Junges;2;Tiago Amoretti;1;0;0
+2024;10;André Junges;2;Mauricio Goleiro;0;0;0
+2024;11;Lucas Linden;1;Gustavo (Pequeno);0;3;0
+2024;11;Lucas Linden;1;Rafael Nunes;3;3;2
+2024;11;Lucas Linden;1;Ieso;0;3;4
+2024;11;Lucas Linden;1;Rafael Muller;0;3;0
+2024;11;Lucas Linden;1;Rafael Klauck;1;3;1
+2024;11;Lucas Linden;1;Samuel Weber;1;3;0
+2024;11;Lucas Linden;1;Nikolas Weber;1;3;0
+2024;11;Lucas Linden;2;Alexandre Junges;0;0;2
+2024;11;Lucas Linden;2;Almir;0;3;0
+2024;11;Lucas Linden;2;André Junges;1;0;0
+2024;11;Lucas Linden;2;Pedrinho;0;3;0
+2024;11;Lucas Linden;2;Tiago Amoretti;1;0;0
+2024;11;Lucas Linden;2;Jarbas Kochhann;2;0;5
+2024;11;Lucas Linden;2;Gardin;0;0;0
+2024;12;Pedrinho;1;Adriel Zanatta;0;3;0
+2024;12;Pedrinho;1;André Junges;4;3;1
+2024;12;Pedrinho;1;Felipe Rambor;1;3;0
+2024;12;Pedrinho;1;Fernando Stacke;1;3;0
+2024;12;Pedrinho;1;Ieso;0;3;5
+2024;12;Pedrinho;1;Vini Rodrigues;3;3;0
+2024;12;Pedrinho;2;Alexandre Junges;1;0;0
+2024;12;Pedrinho;2;Almir;0;0;0
+2024;12;Pedrinho;2;Gustavo (Pequeno);3;0;4
+2024;12;Pedrinho;2;Rafael Muller;2;0;0
+2024;12;Pedrinho;2;Rafael Klauck;2;0;1
+2024;12;Pedrinho;2;Roviel Koch;0;0;1
+2024;13;Rafael Muller;1;Alexandre Junges;2;3;0
+2024;13;Rafael Muller;1;Almir;0;3;1
+2024;13;Rafael Muller;1;Gustavo (Pequeno);1;3;0
+2024;13;Rafael Muller;1;Ieso;0;3;3
+2024;13;Rafael Muller;1;Gustavo Boufleur;2;3;3
+2024;13;Rafael Muller;1;Gardin;0;3;0
+2024;13;Rafael Muller;2;Adriel Zanatta;0;0;0
+2024;13;Rafael Muller;2;André Junges;1;0;1
+2024;13;Rafael Muller;2;Felipe Rambor;0;0;0
+2024;13;Rafael Muller;2;Fernando Stacke;0;0;0
+2024;13;Rafael Muller;2;Rafael Nunes;2;0;4
+2024;13;Rafael Muller;2;Rafael Muller;0;0;1
+2024;13;Rafael Muller;2;Pedrinho;0;0;0
+2024;14;Rafael Nunes;1;Almir;0;0;0
+2024;14;Rafael Nunes;1;André Junges;2;0;1
+2024;14;Rafael Nunes;1;Rafael Muller;4;0;5
+2024;14;Rafael Nunes;1;Pedrinho;0;0;0
+2024;14;Rafael Nunes;1;Tiago Amoretti;0;0;0
+2024;14;Rafael Nunes;1;Jarbas Kochhann;0;0;0
+2024;14;Rafael Nunes;2;Adriel Zanatta;0;3;0
+2024;14;Rafael Nunes;2;Fernando Stacke;2;3;4
+2024;14;Rafael Nunes;2;Ieso;0;3;1
+2024;14;Rafael Nunes;2;Rafael Klauck;1;3;0
+2024;14;Rafael Nunes;2;Samuel Weber;1;3;0
+2024;14;Rafael Nunes;2;Vini Rodrigues;3;3;1
+2024;15;Rafael Klauck;1;Alexandre Junges;4;3;2
+2024;15;Rafael Klauck;1;Fernando Stacke;1;3;1
+2024;15;Rafael Klauck;1;Ieso;0;3;2
+2024;15;Rafael Klauck;1;Rafael Muller;0;3;0
+2024;15;Rafael Klauck;1;Rafael Klauck;1;3;0
+2024;15;Rafael Klauck;1;Samuel Weber;1;3;1
+2024;15;Rafael Klauck;1;Norman;1;3;0
+2024;15;Rafael Klauck;2;Adriel Zanatta;1;0;1
+2024;15;Rafael Klauck;2;André Junges;0;0;1
+2024;15;Rafael Klauck;2;Felipe Rambor;0;0;0
+2024;15;Rafael Klauck;2;Lucas Linden;0;0;0
+2024;15;Rafael Klauck;2;Pedrinho;0;0;0
+2024;15;Rafael Klauck;2;Vini Rodrigues;3;0;5
+2024;15;Rafael Klauck;2;Jarbas Kochhann;0;0;0
+2024;16;Samuel Weber;1;Felipe Rambor;0;1;0
+2024;16;Samuel Weber;1;Rafael Nunes;1;1;1
+2024;16;Samuel Weber;1;Ieso;0;1;3
+2024;16;Samuel Weber;1;Rafael Muller;2;1;0
+2024;16;Samuel Weber;1;Tiago Amoretti;1;1;0
+2024;16;Samuel Weber;1;Vini Rodrigues;3;1;3
+2024;16;Samuel Weber;1;Bruno Jacobus;0;1;0
+2024;16;Samuel Weber;2;Adriel Zanatta;2;1;1
+2024;16;Samuel Weber;2;Alexandre Junges;3;1;3
+2024;16;Samuel Weber;2;Fernando Stacke;0;1;1
+2024;16;Samuel Weber;2;Gustavo (Pequeno);2;1;1
+2024;16;Samuel Weber;2;Pedrinho;0;1;0
+2024;16;Samuel Weber;2;Rafael Klauck;0;1;0
+2024;16;Samuel Weber;2;Jarbas Kochhann;0;1;0
+2024;17;Tiago Amoretti;1;Fernando Stacke;1;0;0
+2024;17;Tiago Amoretti;1;Ieso;0;0;1
+2024;17;Tiago Amoretti;1;Lucas Linden;1;0;0
+2024;17;Tiago Amoretti;1;Rafael Muller;1;0;2
+2024;17;Tiago Amoretti;1;Gustavo Boufleur;2;0;3
+2024;17;Tiago Amoretti;1;Tiago Amoretti;0;0;0
+2024;17;Tiago Amoretti;1;Vini Rodrigues;2;0;1
+2024;17;Tiago Amoretti;2;Adriel Zanatta;3;3;4
+2024;17;Tiago Amoretti;2;Alexandre Junges;2;3;1
+2024;17;Tiago Amoretti;2;Almir;1;3;0
+2024;17;Tiago Amoretti;2;Felipe Rambor;0;3;0
+2024;17;Tiago Amoretti;2;Gustavo (Pequeno);1;3;0
+2024;17;Tiago Amoretti;2;Pedrinho;0;3;0
+2024;17;Tiago Amoretti;2;Rafael Klauck;2;3;2
+2024;18;Vini Rodrigues;1;Adriel Zanatta;2;3;0
+2024;18;Vini Rodrigues;1;Almir;0;3;0
+2024;18;Vini Rodrigues;1;Gustavo (Pequeno);1;3;0
+2024;18;Vini Rodrigues;1;Ieso;0;3;2
+2024;18;Vini Rodrigues;1;Rafael Klauck;4;3;4
+2024;18;Vini Rodrigues;1;Vini Rodrigues;5;3;0
+2024;18;Vini Rodrigues;2;Felipe Rambor;3;0;2
+2024;18;Vini Rodrigues;2;Rafael Nunes;0;0;0
+2024;18;Vini Rodrigues;2;Rafael Muller;1;0;0
+2024;18;Vini Rodrigues;2;Pedrinho;0;0;3
+2024;18;Vini Rodrigues;2;Gustavo Boufleur;2;0;0
+2024;18;Vini Rodrigues;2;Bruno Jacobus;0;0;1
+2024;19;Adriel Zanatta;1;André Junges;1;1;0
+2024;19;Adriel Zanatta;1;Felipe Rambor;1;1;0
+2024;19;Adriel Zanatta;1;Fernando Stacke;0;1;1
+2024;19;Adriel Zanatta;1;Ieso;0;1;1
+2024;19;Adriel Zanatta;1;Lucas Linden;0;1;0
+2024;19;Adriel Zanatta;1;Tiago Amoretti;1;1;0
+2024;19;Adriel Zanatta;1;Vini Rodrigues;4;1;5
+2024;19;Adriel Zanatta;2;Adriel Zanatta;1;1;0
+2024;19;Adriel Zanatta;2;Alexandre Junges;2;1;7
+2024;19;Adriel Zanatta;2;Almir;0;1;0
+2024;19;Adriel Zanatta;2;Gustavo (Pequeno);1;1;0
+2024;19;Adriel Zanatta;2;Rafael Muller;0;1;0
+2024;19;Adriel Zanatta;2;Pedrinho;0;1;0
+2024;19;Adriel Zanatta;2;Rafael Klauck;3;1;0
+2024;20;Alexandre Junges;1;Adriel Zanatta;2;3;5
+2024;20;Alexandre Junges;1;Almir;0;3;0
+2024;20;Alexandre Junges;1;Rafael Nunes;0;3;0
+2024;20;Alexandre Junges;1;Ieso;0;3;1
+2024;20;Alexandre Junges;1;Lucas Linden;0;3;0
+2024;20;Alexandre Junges;1;Rafael Muller;1;3;0
+2024;20;Alexandre Junges;1;Tiago Amoretti;0;3;0
+2024;20;Alexandre Junges;1;Vini Rodrigues;2;3;1
+2024;20;Alexandre Junges;2;Alexandre Junges;0;0;0
+2024;20;Alexandre Junges;2;André Junges;1;0;1
+2024;20;Alexandre Junges;2;Felipe Rambor;1;0;1
+2024;20;Alexandre Junges;2;Fernando Stacke;0;0;0
+2024;20;Alexandre Junges;2;Pedrinho;0;0;2
+2024;20;Alexandre Junges;2;Rafael Klauck;0;0;4
+2024;20;Alexandre Junges;2;Samuel Weber;0;0;0
+2024;21;André Junges;1;Adriel Zanatta;2;1;0
+2024;21;André Junges;1;Felipe Rambor;1;1;0
+2024;21;André Junges;1;Fernando Stacke;3;1;4
+2024;21;André Junges;1;Gustavo (Pequeno);1;1;1
+2024;21;André Junges;1;Rafael Nunes;1;1;1
+2024;21;André Junges;1;Ieso;0;1;0
+2024;21;André Junges;2;Almir;0;1;0
+2024;21;André Junges;2;André Junges;5;1;6
+2024;21;André Junges;2;Rafael Muller;1;1;0
+2024;21;André Junges;2;Pedrinho;0;1;0
+2024;21;André Junges;2;Samuel Weber;0;1;0
+2024;21;André Junges;2;Vini Rodrigues;2;1;0
+2024;22;Felipe Rambor;1;Alexandre Junges;0;0;2
+2024;22;Felipe Rambor;1;Almir;0;0;0
+2024;22;Felipe Rambor;1;Felipe Rambor;2;0;1
+2024;22;Felipe Rambor;1;Fernando Stacke;1;0;0
+2024;22;Felipe Rambor;1;Ieso;0;0;1
+2024;22;Felipe Rambor;1;Lucas Linden;1;0;0
+2024;22;Felipe Rambor;1;Rafael Muller;3;0;3
+2024;22;Felipe Rambor;2;Adriel Zanatta;3;3;0
+2024;22;Felipe Rambor;2;André Junges;0;3;0
+2024;22;Felipe Rambor;2;Pedrinho;0;3;2
+2024;22;Felipe Rambor;2;Rafael Klauck;2;3;2
+2024;22;Felipe Rambor;2;Samuel Weber;1;3;2
+2024;22;Felipe Rambor;2;Tiago Amoretti;2;3;0
+2024;22;Felipe Rambor;2;Vini Rodrigues;4;3;1
+2024;23;Fernando Stacke;1;André Junges;2;3;0
+2024;23;Fernando Stacke;1;Fernando Stacke;0;3;5
+2024;23;Fernando Stacke;1;Gustavo (Pequeno);1;3;0
+2024;23;Fernando Stacke;1;Ieso;0;3;0
+2024;23;Fernando Stacke;1;Rafael Muller;2;3;0
+2024;23;Fernando Stacke;1;Rafael Klauck;2;3;1
+2024;23;Fernando Stacke;1;Samuel Weber;2;3;1
+2024;23;Fernando Stacke;2;Adriel Zanatta;2;0;2
+2024;23;Fernando Stacke;2;Felipe Rambor;0;0;0
+2024;23;Fernando Stacke;2;Rafael Nunes;1;0;2
+2024;23;Fernando Stacke;2;Lucas Linden;0;0;0
+2024;23;Fernando Stacke;2;Pedrinho;0;0;1
+2024;23;Fernando Stacke;2;Gustavo Boufleur;0;0;1
+2024;23;Fernando Stacke;2;Tiago Amoretti;0;0;1
+2024;24;Gustavo Boufleur;1;Alexandre Junges;3;0;4
+2024;24;Gustavo Boufleur;1;Almir;0;0;0
+2024;24;Gustavo Boufleur;1;Felipe Rambor;1;0;0
+2024;24;Gustavo Boufleur;1;Gustavo (Pequeno);2;0;2
+2024;24;Gustavo Boufleur;1;Ieso;0;0;0
+2024;24;Gustavo Boufleur;1;Rafael Muller;1;0;0
+2024;24;Gustavo Boufleur;1;Samuel Weber;0;0;0
+2024;24;Gustavo Boufleur;1;Gustavo Boufleur;0;0;2
+2024;24;Gustavo Boufleur;2;Adriel Zanatta;2;3;1
+2024;24;Gustavo Boufleur;2;André Junges;3;3;5
+2024;24;Gustavo Boufleur;2;Fernando Stacke;0;3;0
+2024;24;Gustavo Boufleur;2;Rafael Nunes;2;3;2
+2024;24;Gustavo Boufleur;2;Pedrinho;0;3;0
+2024;24;Gustavo Boufleur;2;Rafael Klauck;0;3;0
+2024;24;Gustavo Boufleur;2;Tiago Amoretti;0;3;0
+2024;24;Gustavo Boufleur;2;Vini Rodrigues;1;3;0
+2024;25;Gustavo (Pequeno);1;Almir;0;3;0
+2024;25;Gustavo (Pequeno);1;André Junges;0;3;0
+2024;25;Gustavo (Pequeno);1;Felipe Rambor;0;3;0
+2024;25;Gustavo (Pequeno);1;Gustavo (Pequeno);0;3;1
+2024;25;Gustavo (Pequeno);1;Rafael Nunes;0;3;0
+2024;25;Gustavo (Pequeno);1;Ieso;0;3;0
+2024;25;Gustavo (Pequeno);1;Rafael Klauck;4;3;7
+2024;25;Gustavo (Pequeno);2;Adriel Zanatta;2;0;3
+2024;25;Gustavo (Pequeno);2;Alexandre Junges;0;0;1
+2024;25;Gustavo (Pequeno);2;Fernando Stacke;0;0;0
+2024;25;Gustavo (Pequeno);2;Lucas Linden;0;0;0
+2024;25;Gustavo (Pequeno);2;Rafael Muller;0;0;0
+2024;25;Gustavo (Pequeno);2;Pedrinho;0;0;3
+2024;25;Gustavo (Pequeno);2;Gustavo Boufleur;0;0;0
+2024;25;Gustavo (Pequeno);2;Vini Rodrigues;0;0;0
+2024;26;Ieso;1;Alexandre Junges;1;3;0
+2024;26;Ieso;1;Felipe Rambor;1;3;0
+2024;26;Ieso;1;Fernando Stacke;0;3;0
+2024;26;Ieso;1;Ieso;0;3;5
+2024;26;Ieso;1;Rafael Muller;6;3;2
+2024;26;Ieso;1;Rafael Klauck;0;3;0
+2024;26;Ieso;2;Adriel Zanatta;0;0;0
+2024;26;Ieso;2;André Junges;1;0;0
+2024;26;Ieso;2;Gustavo (Pequeno);2;0;0
+2024;26;Ieso;2;Pedrinho;0;0;3
+2024;26;Ieso;2;Samuel Weber;0;0;0
+2024;26;Ieso;2;Gustavo Boufleur;2;0;3
+2024;26;Ieso;2;Tiago Amoretti;0;0;0
+2024;27;Lucas Linden;1;Almir;0;3;1
+2024;27;Lucas Linden;1;André Junges;1;3;0
+2024;27;Lucas Linden;1;Felipe Rambor;1;3;0
+2024;27;Lucas Linden;1;Fernando Stacke;0;3;0
+2024;27;Lucas Linden;1;Ieso;0;3;0
+2024;27;Lucas Linden;1;Rafael Klauck;1;3;0
+2024;27;Lucas Linden;1;Vini Rodrigues;2;3;5
+2024;27;Lucas Linden;2;Alexandre Junges;1;0;1
+2024;27;Lucas Linden;2;Gustavo (Pequeno);1;0;2
+2024;27;Lucas Linden;2;Rafael Nunes;0;0;0
+2024;27;Lucas Linden;2;Rafael Muller;0;0;0
+2024;27;Lucas Linden;2;Samuel Weber;1;0;1
+2024;27;Lucas Linden;2;Roviel Koch;0;0;3
+2024;28;Pedrinho;1;Alexandre Junges;2;3;4
+2024;28;Pedrinho;1;André Junges;2;3;0
+2024;28;Pedrinho;1;Gustavo (Pequeno);1;3;0
+2024;28;Pedrinho;1;Ieso;0;3;0
+2024;28;Pedrinho;1;Samuel Weber;2;3;1
+2024;28;Pedrinho;1;Tiago Amoretti;2;3;1
+2024;28;Pedrinho;2;Adriel Zanatta;3;0;4
+2024;28;Pedrinho;2;Almir;0;0;0
+2024;28;Pedrinho;2;Felipe Rambor;0;0;0
+2024;28;Pedrinho;2;Rafael Nunes;1;0;0
+2024;28;Pedrinho;2;Rafael Muller;2;0;1
+2024;28;Pedrinho;2;Pedrinho;0;0;0
+2024;28;Pedrinho;2;Vini Rodrigues;0;0;1
+2024;29;Rafael Muller;1;Adriel Zanatta;3;0;4
+2024;29;Rafael Muller;1;Alexandre Junges;1;0;0
+2024;29;Rafael Muller;1;Almir;0;0;0
+2024;29;Rafael Muller;1;Fernando Stacke;1;0;0
+2024;29;Rafael Muller;1;Gustavo (Pequeno);1;0;0
+2024;29;Rafael Muller;1;Ieso;0;0;0
+2024;29;Rafael Muller;1;Gustavo Boufleur;2;0;3
+2024;29;Rafael Muller;1;Tiago Amoretti;0;0;0
+2024;29;Rafael Muller;2;André Junges;0;3;0
+2024;29;Rafael Muller;2;Felipe Rambor;2;3;0
+2024;29;Rafael Muller;2;Lucas Linden;0;3;0
+2024;29;Rafael Muller;2;Rafael Muller;4;3;4
+2024;29;Rafael Muller;2;Pedrinho;1;3;1
+2024;29;Rafael Muller;2;Rafael Klauck;1;3;1
+2024;29;Rafael Muller;2;Vini Rodrigues;2;3;1
+2024;30;Rafael Nunes;1;Adriel Zanatta;1;3;0
+2024;30;Rafael Nunes;1;Felipe Rambor;5;3;4
+2024;30;Rafael Nunes;1;Ieso;0;3;1
+2024;30;Rafael Nunes;1;Rafael Muller;1;3;1
+2024;30;Rafael Nunes;1;Samuel Weber;0;3;0
+2024;30;Rafael Nunes;1;Gustavo Boufleur;2;3;0
+2024;30;Rafael Nunes;1;Douglas Dias;2;3;0
+2024;30;Rafael Nunes;2;Alexandre Junges;1;0;0
+2024;30;Rafael Nunes;2;Almir;0;0;0
+2024;30;Rafael Nunes;2;Fernando Stacke;0;0;0
+2024;30;Rafael Nunes;2;Rafael Klauck;2;0;5
+2024;30;Rafael Nunes;2;Vini Rodrigues;0;0;1
+2024;30;Rafael Nunes;2;Norman;0;0;0
+2024;30;Rafael Nunes;2;Thiago (amigo Pedrinho);1;0;0
+2024;31;Rafael Klauck;1;Alexandre Junges;2;0;0
+2024;31;Rafael Klauck;1;Almir;0;0;0
+2024;31;Rafael Klauck;1;Fernando Stacke;0;0;0
+2024;31;Rafael Klauck;1;Ieso;0;0;0
+2024;31;Rafael Klauck;1;Rafael Muller;5;0;7
+2024;31;Rafael Klauck;1;Rafael Klauck;1;0;0
+2024;31;Rafael Klauck;1;Gustavo Boufleur;0;0;0
+2024;31;Rafael Klauck;2;Adriel Zanatta;2;3;1
+2024;31;Rafael Klauck;2;André Junges;2;3;1
+2024;31;Rafael Klauck;2;Gustavo (Pequeno);1;3;0
+2024;31;Rafael Klauck;2;Rafael Nunes;1;3;0
+2024;31;Rafael Klauck;2;Pedrinho;0;3;4
+2024;31;Rafael Klauck;2;Samuel Weber;0;3;0
+2024;31;Rafael Klauck;2;Vini Rodrigues;3;3;0
+2024;32;Samuel Weber;1;André Junges;1;3;2
+2024;32;Samuel Weber;1;Felipe Rambor;3;3;2
+2024;32;Samuel Weber;1;Ieso;0;3;0
+2024;32;Samuel Weber;1;Samuel Weber;0;3;1
+2024;32;Samuel Weber;1;Vini Rodrigues;2;3;2
+2024;32;Samuel Weber;1;Norman;1;3;0
+2024;32;Samuel Weber;1;Thiago (amigo Pedrinho);0;3;0
+2024;32;Samuel Weber;2;Adriel Zanatta;1;0;0
+2024;32;Samuel Weber;2;Almir;0;0;0
+2024;32;Samuel Weber;2;Rafael Muller;1;0;1
+2024;32;Samuel Weber;2;Pedrinho;0;0;3
+2024;32;Samuel Weber;2;Rafael Klauck;1;0;2
+2024;32;Samuel Weber;2;Gustavo Boufleur;0;0;0
+2024;32;Samuel Weber;2;Bruno Pfeifer;0;0;0
+2024;33;Tiago Amoretti;1;Almir;0;0;0
+2024;33;Tiago Amoretti;1;Gustavo (Pequeno);1;0;0
+2024;33;Tiago Amoretti;1;Ieso;1;0;5
+2024;33;Tiago Amoretti;1;Rafael Muller;0;0;0
+2024;33;Tiago Amoretti;1;Tiago Amoretti;2;0;1
+2024;33;Tiago Amoretti;1;Vini Rodrigues;1;0;0
+2024;33;Tiago Amoretti;1;Norman;1;0;0
+2024;33;Tiago Amoretti;2;Alexandre Junges;0;3;0
+2024;33;Tiago Amoretti;2;Felipe Rambor;1;3;0
+2024;33;Tiago Amoretti;2;Rafael Nunes;2;3;1
+2024;33;Tiago Amoretti;2;Lucas Linden;1;3;0
+2024;33;Tiago Amoretti;2;Rafael Klauck;1;3;0
+2024;33;Tiago Amoretti;2;Gustavo Boufleur;3;3;6
+2024;34;Vini Rodrigues;1;Alexandre Junges;1;3;0
+2024;34;Vini Rodrigues;1;Almir;0;3;0
+2024;34;Vini Rodrigues;1;Gustavo (Pequeno);4;3;5
+2024;34;Vini Rodrigues;1;Ieso;0;3;0
+2024;34;Vini Rodrigues;1;Rafael Muller;3;3;1
+2024;34;Vini Rodrigues;1;Rafael Klauck;1;3;0
+2024;34;Vini Rodrigues;1;Marcelo (amigo Alexandre);0;3;0
+2024;34;Vini Rodrigues;2;Fernando Stacke;0;0;0
+2024;34;Vini Rodrigues;2;Lucas Linden;0;0;0
+2024;34;Vini Rodrigues;2;Pedrinho;0;0;3
+2024;34;Vini Rodrigues;2;Gustavo Boufleur;2;0;3
+2024;34;Vini Rodrigues;2;Vini Rodrigues;4;0;1
+2024;34;Vini Rodrigues;2;Thiago (amigo Pedrinho);1;0;0
+2024;35;Adriel Zanatta;1;André Junges;1;3;0
+2024;35;Adriel Zanatta;1;Fernando Stacke;1;3;0
+2024;35;Adriel Zanatta;1;Ieso;0;3;6
+2024;35;Adriel Zanatta;1;Gustavo Boufleur;1;3;1
+2024;35;Adriel Zanatta;1;Vini Rodrigues;2;3;0
+2024;35;Adriel Zanatta;1;Norman;1;3;0
+2024;35;Adriel Zanatta;1;Thiago (amigo Pedrinho);1;3;0
+2024;35;Adriel Zanatta;2;Adriel Zanatta;1;0;0
+2024;35;Adriel Zanatta;2;Alexandre Junges;0;0;0
+2024;35;Adriel Zanatta;2;Almir;0;0;0
+2024;35;Adriel Zanatta;2;Gustavo (Pequeno);1;0;1
+2024;35;Adriel Zanatta;2;Rafael Muller;0;0;0
+2024;35;Adriel Zanatta;2;Pedrinho;0;0;1
+2024;35;Adriel Zanatta;2;Rafael Klauck;3;0;4
+2024;36;Alexandre Junges;1;André Junges;1;0;1
+2024;36;Alexandre Junges;1;Felipe Rambor;4;0;6
+2024;36;Alexandre Junges;1;Gustavo (Pequeno);0;0;0
+2024;36;Alexandre Junges;1;Lucas Linden;0;0;0
+2024;36;Alexandre Junges;1;Pedrinho;0;0;0
+2024;36;Alexandre Junges;1;Vini Rodrigues;2;0;0
+2024;36;Alexandre Junges;1;Norman;2;0;0
+2024;36;Alexandre Junges;2;Fernando Stacke;0;3;0
+2024;36;Alexandre Junges;2;Ieso;1;3;3
+2024;36;Alexandre Junges;2;Rafael Muller;3;3;1
+2024;36;Alexandre Junges;2;Rafael Klauck;3;3;1
+2024;36;Alexandre Junges;2;Samuel Weber;2;3;0
+2024;36;Alexandre Junges;2;Gustavo Boufleur;1;3;1
+2024;36;Alexandre Junges;2;Tiago Amoretti;0;3;0
+2024;37;Almir;1;Alexandre Junges;0;1;0
+2024;37;Almir;1;Almir;1;1;0
+2024;37;Almir;1;Fernando Stacke;0;1;0
+2024;37;Almir;1;Gustavo (Pequeno);0;1;0
+2024;37;Almir;1;Rafael Muller;3;1;3
+2024;37;Almir;1;Pedrinho;0;1;0
+2024;37;Almir;1;Gustavo Boufleur;3;1;4
+2024;37;Almir;2;Adriel Zanatta;0;1;0
+2024;37;Almir;2;André Junges;2;1;0
+2024;37;Almir;2;Ieso;0;1;2
+2024;37;Almir;2;Lucas Linden;3;1;3
+2024;37;Almir;2;Rafael Klauck;1;1;0
+2024;37;Almir;2;Vini Rodrigues;1;1;2
+2024;37;Almir;2;Thiago (amigo Pedrinho);0;1;0
+2024;38;André Junges;1;Adriel Zanatta;1;0;0
+2024;38;André Junges;1;Felipe Rambor;3;0;6
+2024;38;André Junges;1;Fernando Stacke;0;0;0
+2024;38;André Junges;1;Rafael Nunes;0;0;0
+2024;38;André Junges;1;Ieso;0;0;1
+2024;38;André Junges;1;Rafael Muller;0;0;0
+2024;38;André Junges;1;Vini Rodrigues;0;0;0
+2024;38;André Junges;2;Alexandre Junges;1;3;0
+2024;38;André Junges;2;Almir;0;3;0
+2024;38;André Junges;2;André Junges;2;3;0
+2024;38;André Junges;2;Gustavo (Pequeno);1;3;0
+2024;38;André Junges;2;Pedrinho;0;3;7
+2024;38;André Junges;2;Rafael Klauck;2;3;0
+2024;38;André Junges;2;Norman;2;3;0
+2024;39;Felipe Rambor;1;André Junges;2;0;3
+2024;39;Felipe Rambor;1;Ieso;0;0;2
+2024;39;Felipe Rambor;1;Rafael Muller;1;0;2
+2024;39;Felipe Rambor;1;Samuel Weber;1;0;0
+2024;39;Felipe Rambor;1;Norman;0;0;0
+2024;39;Felipe Rambor;1;Thiago (amigo Pedrinho);1;0;0
+2024;39;Felipe Rambor;2;Adriel Zanatta;3;3;0
+2024;39;Felipe Rambor;2;Gustavo (Pequeno);1;3;0
+2024;39;Felipe Rambor;2;Rafael Nunes;4;3;4
+2024;39;Felipe Rambor;2;Lucas Linden;1;3;0
+2024;39;Felipe Rambor;2;Pedrinho;0;3;2
+2024;39;Felipe Rambor;2;Vini Rodrigues;1;3;0
+2024;39;Felipe Rambor;2;Felipe Punhobol;1;3;0
+2024;40;Gustavo (Pequeno);1;Fernando Stacke;0;0;0
+2024;40;Gustavo (Pequeno);1;Rafael Muller;1;0;1
+2024;40;Gustavo (Pequeno);1;Pedrinho;0;0;1
+2024;40;Gustavo (Pequeno);1;Samuel Weber;0;0;0
+2024;40;Gustavo (Pequeno);1;Tiago Amoretti;2;0;0
+2024;40;Gustavo (Pequeno);1;Vini Rodrigues;1;0;0
+2024;40;Gustavo (Pequeno);1;Norman;4;0;4
+2024;40;Gustavo (Pequeno);2;Adriel Zanatta;0;3;0
+2024;40;Gustavo (Pequeno);2;Almir;1;3;0
+2024;40;Gustavo (Pequeno);2;Gustavo (Pequeno);3;3;3
+2024;40;Gustavo (Pequeno);2;Ieso;0;3;2
+2024;40;Gustavo (Pequeno);2;Rafael Klauck;2;3;0
+2024;40;Gustavo (Pequeno);2;Thiago (amigo Pedrinho);1;3;0
+2024;40;Gustavo (Pequeno);2;Mustapha (amigo Pequeno);2;3;1
+2024;41;Fernando Stacke;1;André Junges;2;3;0
+2024;41;Fernando Stacke;1;Fernando Stacke;1;3;0
+2024;41;Fernando Stacke;1;Gustavo (Pequeno);2;3;0
+2024;41;Fernando Stacke;1;Rafael Klauck;0;3;7
+2024;41;Fernando Stacke;1;Gustavo Boufleur;3;3;0
+2024;41;Fernando Stacke;1;Norman;2;3;0
+2024;41;Fernando Stacke;1;Thiago (amigo Pedrinho);1;3;0
+2024;41;Fernando Stacke;2;Adriel Zanatta;1;0;0
+2024;41;Fernando Stacke;2;Almir;0;0;0
+2024;41;Fernando Stacke;2;Felipe Rambor;1;0;1
+2024;41;Fernando Stacke;2;Ieso;0;0;1
+2024;41;Fernando Stacke;2;Rafael Muller;0;0;1
+2024;41;Fernando Stacke;2;Tiago Amoretti;1;0;0
+2024;41;Fernando Stacke;2;Vini Rodrigues;1;0;4
+2024;42;Gustavo Boufleur;1;Adriel Zanatta;0;3;0
+2024;42;Gustavo Boufleur;1;Almir;0;3;2
+2024;42;Gustavo Boufleur;1;André Junges;2;3;0
+2024;42;Gustavo Boufleur;1;Felipe Rambor;2;3;1
+2024;42;Gustavo Boufleur;1;Fernando Stacke;3;3;3
+2024;42;Gustavo Boufleur;1;Ieso;0;3;0
+2024;42;Gustavo Boufleur;2;Gustavo (Pequeno);1;0;3
+2024;42;Gustavo Boufleur;2;Lucas Linden;2;0;0
+2024;42;Gustavo Boufleur;2;Samuel Weber;1;0;0
+2024;42;Gustavo Boufleur;2;Gustavo Boufleur;0;0;1
+2024;42;Gustavo Boufleur;2;Tiago Amoretti;1;0;0
+2024;42;Gustavo Boufleur;2;Thiago (amigo Pedrinho);1;0;2
+2024;43;Ieso;1;Adriel Zanatta;0;3;0
+2024;43;Ieso;1;Almir;0;3;0
+2024;43;Ieso;1;André Junges;0;3;0
+2024;43;Ieso;1;Gustavo (Pequeno);3;3;3
+2024;43;Ieso;1;Rafael Nunes;0;3;0
+2024;43;Ieso;1;Pedrinho;0;3;4
+2024;43;Ieso;1;Vini Rodrigues;2;3;0
+2024;43;Ieso;2;Alexandre Junges;0;0;0
+2024;43;Ieso;2;Fernando Stacke;1;0;0
+2024;43;Ieso;2;Ieso;0;0;5
+2024;43;Ieso;2;Rafael Muller;0;0;0
+2024;43;Ieso;2;Rafael Klauck;1;0;1
+2024;43;Ieso;2;Gustavo Boufleur;2;0;1
+2024;43;Ieso;2;Norman;0;0;0

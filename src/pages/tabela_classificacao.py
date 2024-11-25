@@ -24,7 +24,7 @@ tabela_classificação = dag.AgGrid(
         {
             "field": "#",
             "type": "numericColumn",
-            "width": 45,
+            "width": 75,
             "pinned": True,
         },
         {
@@ -53,7 +53,7 @@ tabela_classificação = dag.AgGrid(
         },
         {
             "field": "PJ",
-            "width": 50,
+            "width": 75,
         },
         {
             "field": "FREQ",
@@ -62,19 +62,19 @@ tabela_classificação = dag.AgGrid(
         },
         {
             "field": "S+",
-            "width": 50,
+            "width": 75,
         },
         {
             "field": "V",
-            "width": 50,
+            "width": 75,
         },
         {
             "field": "E",
-            "width": 50,
+            "width": 75,
         },
         {
             "field": "D",
-            "width": 50,
+            "width": 75,
         },
     ],
     dashGridOptions={"animateRows": True, "rowSelection": "multiple"},
